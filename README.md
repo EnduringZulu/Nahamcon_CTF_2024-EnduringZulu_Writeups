@@ -1,6 +1,7 @@
 # NahamCon CTF 2024 - WriteUps
 
 This is all challenges that I solved.
+![Certificates](NahamCon%20CTF%202024%20-%20WriteUps%20811f6ee20ca94aa9b026881988e12d91/baaf42a68fa2751d138b6b05211ccd2a2497465589d9998bca94617975a4e4a5.png)
 
 ## Category that I solved
 
